@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hola! 🇦🇷
 
-<!--
-**marcorichetta/marcorichetta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Python/Django Developer :snake:
+- Interested in React/Typescript ⚛
+- Currently working with Django
 
-Here are some ideas to get you started:
+[![Twitter: marcorichetta](https://img.shields.io/twitter/follow/marcorichetta?style=social)](https://twitter.com/marcorichetta)
+[![Linkedin: Marco Richetta](https://img.shields.io/badge/Marco%20Richetta--blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/marco-richetta/)](https://www.linkedin.com/in/marco-richetta/)
+[![Personal Website](https://img.shields.io/badge/Personal-website-success?style=flat-square)](https://marcorichetta.now.sh)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+![Marco's github stats](https://github-readme-stats.vercel.app/api?username=marcorichetta&show_icons=true&theme=tokyonight)
+
+*Based on https://github.com/johannasantos Readme*
