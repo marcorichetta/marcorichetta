@@ -6,7 +6,6 @@ Software developer
 
 *   🌍  I'm based in Córdoba, Argentina
 *   🖥️  [Personal site](http://marcorichetta.vercel.app/)
-*   🧠  Currently working with [Flux](https://fluxcd.io/) at [FluxIT](https://www.linkedin.com/company/fluxit/)
 *   🤝  I'm open to collaborating on Open Source, Python and GitOps related projects
 
 ### Skills
